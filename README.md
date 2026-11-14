@@ -172,3 +172,10 @@ python -m http.server 8000
 - 色・余白は `CSS/style.css` 冒頭のカスタムプロパティで管理（インラインスタイルは使わない）
 - 画像は `Resources/images/` に小文字＋ハイフン名で配置
 - セクション追加時は `JS/script.js` のナビハイライトも更新
+---
+
+## 许可 / License
+
+本项目以 [MIT](./LICENSE) 许可证发布。
+
+Licensed under the [MIT License](./LICENSE).
